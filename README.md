@@ -1,29 +1,39 @@
 # Hi 👋, I'm Simo Kan
 
 💻 **Full Stack Developer & Cybersecurity Student**  
-🔐 Passionate about secure, efficient, and scalable software solutions  
-🌱 Continuously learning new technologies and best practices  
+🔐 Passionate about secure, scalable software solutions  
+🌱 Always learning new technologies and best practices  
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Programming & Web
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,django,odoo,nodejs,react" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,redis" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,ruby,java" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,nginx" />
-</p>
+## ⚙️ Frameworks & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,nmap,wireshark,burpsuite,metasploit" />
+  <img src="https://skillicons.dev/icons?i=flask,django,odoo,nodejs,react,angular,vue" />
+</p>
+
+## 🗄️ Databases & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,redis,kubernetes,jenkins,terraform,ansible" />
+</p>
+
+## 🛠️ Tools & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,nginx,bash,linux,postman" />
+</p>
+
+## 🔒 Cybersecurity Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,nmap,wireshark,burpsuite,metasploit,nessus,snort" />
 </p>
 
 ---
@@ -57,6 +67,6 @@
 
 ## 🔥 Fun Facts
 
-- 🏗️ Always building new apps and experimenting with security tools  
-- 🌍 Worked in Ukraine for 2 years – international collaboration experience  
+- 🏗️ Always building apps and experimenting with new tools  
+- 🌍 Worked in Ukraine for 2 years – love international collaboration  
 - 🤝 Interested in combining Dev + Cybersecurity for secure, scalable solutions
