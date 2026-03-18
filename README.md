@@ -14,18 +14,12 @@
 
 ---
 
-## 🚀 Projects
 
-- 🔐 **Encrypted File Sharing System** – Flask + AES/RSA hybrid encryption, secure LAN file sharing  
-- 🛒 **Odoo Ticket Management System** – Automated email → ticket creation, advanced access control  
-- 🤖 **AI Chatbot (Jasmine)** – Intelligent assistant for PsyCabinet  
-
----
 
 ## 📫 Contact Me
 
-- ✉️ Email: [asmaa.chemmari@mj.teleperformance.com](mailto:asmaa.chemmari@mj.teleperformance.com)  
-- 🔗 GitHub: [github.com/SimoKan](https://github.com/SimoKan)  
+- ✉️ Email: [skandri30@gmail.com](mailto:skandri30@gmail.com)  
+- 🔗 GitHub: [github.com/SimoKan](https://github.com/mohamedkandri)  
 
 ---
 
