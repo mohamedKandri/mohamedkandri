@@ -8,7 +8,6 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### Programming & Web
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
