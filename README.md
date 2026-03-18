@@ -12,23 +12,17 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
-
-### Frameworks & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flask,django,odoo,nodejs,react" />
 </p>
-
-### Databases & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,redis" />
 </p>
 
-### Tools & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,nginx" />
 </p>
 
-### Cybersecurity
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,nmap,wireshark,burpsuite,metasploit" />
 </p>
