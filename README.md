@@ -8,14 +8,29 @@
 
 ## 🛠️ Tech Stack & Skills
 
+### Programming & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,flask,django,odoo,nodejs,react,postgres,mysql,mongodb,docker,linux,git,github,vscode,aws,nginx,linux,redis,jenkins,kubernetes,bash,ansible,terraform" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
 
-### 🔒 Cybersecurity Skills
-
+### Frameworks & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wireshark,nmap,burpsuite,metasploit,kali,hashicorp" />
+  <img src="https://skillicons.dev/icons?i=flask,django,odoo,nodejs,react" />
+</p>
+
+### Databases & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,redis" />
+</p>
+
+### Tools & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,nginx" />
+</p>
+
+### Cybersecurity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,nmap,wireshark,burpsuite,metasploit" />
 </p>
 
 ---
