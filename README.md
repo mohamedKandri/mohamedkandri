@@ -1,25 +1,37 @@
 # Hi 👋, I'm Simo Kan
 
-💻 **Full Stack Developer & Cybersecurity Enthusiast**  
-🔐 Focused on secure web applications and Odoo solutions  
-🌱 Always learning new technologies and best practices  
+💻 **Full Stack Developer & Cybersecurity Student**  
+🔐 Passionate about secure, efficient, and scalable software solutions  
+🌱 Continuously learning new technologies and best practices  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,flask,odoo,postgres,mysql,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,flask,django,odoo,nodejs,react,postgres,mysql,mongodb,docker,linux,git,github,vscode,aws,nginx,linux,redis,jenkins,kubernetes,bash,ansible,terraform" />
+</p>
+
+### 🔒 Cybersecurity Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wireshark,nmap,burpsuite,metasploit,kali,hashicorp" />
 </p>
 
 ---
 
+## 🚀 Projects
 
+- 🔐 **Encrypted File Sharing System** – Flask + AES/RSA hybrid encryption, secure LAN file sharing  
+- 🛒 **Odoo Ticket Management System** – Automated email → ticket creation, advanced access control  
+- 🤖 **AI Chatbot (Jasmine)** – Intelligent assistant for PsyCabinet  
+
+---
 
 ## 📫 Contact Me
 
 - ✉️ Email: [skandri30@gmail.com](mailto:skandri30@gmail.com)  
-- 🔗 GitHub: [github.com/SimoKan](https://github.com/mohamedkandri)  
+- 🔗 GitHub: [github.com/SimoKan](https://github.com/SimoKan)  
 
 ---
 
@@ -37,6 +49,6 @@
 
 ## 🔥 Fun Facts
 
-- 🏗️ Always building something new  
-- 🌍 Worked in Ukraine for 2 years – love international collaboration  
+- 🏗️ Always building new apps and experimenting with security tools  
+- 🌍 Worked in Ukraine for 2 years – international collaboration experience  
 - 🤝 Interested in combining Dev + Cybersecurity for secure, scalable solutions
