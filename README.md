@@ -21,13 +21,13 @@
 ## 🗄️ Databases & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,redis,kubernetes,jenkins,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker" />
 </p>
 
 ## 🛠️ Tools & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,nginx,bash,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,bash,linux,postman" />
 </p>
 
 ## 🔒 Cybersecurity Tools
@@ -36,15 +36,7 @@
   <img src="https://skillicons.dev/icons?i=kali,nmap,wireshark,burpsuite,metasploit,nessus,snort" />
 </p>
 
----
 
-## 🚀 Projects
-
-- 🔐 **Encrypted File Sharing System** – Flask + AES/RSA hybrid encryption, secure LAN file sharing  
-- 🛒 **Odoo Ticket Management System** – Automated email → ticket creation, advanced access control  
-- 🤖 **AI Chatbot (Jasmine)** – Intelligent assistant for PsyCabinet  
-
----
 
 ## 📫 Contact Me
 
